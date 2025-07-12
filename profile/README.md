@@ -23,24 +23,24 @@ I'm currently studying for certifications like **CCNA**, **CCNP Security**, and 
 
 ### 🔒 Tailscale Setup  
 A walkthrough on how I use Tailscale for secure, remote access to my home network.  
-➡️ See: [https://github.com/philfreddie/tailscale](tailscale.md)
+➡️ See: [tailscale.md](https://github.com/philfreddie/tailscale)
 
 ### 🐧 Pi-hole DNS  
 My configuration of Pi-hole and Dnsmasq on Raspberry Pi 3 for internal DNS.  
-➡️ See: [https://github.com/philfreddie/pihole](pihole.md)
+➡️ See: [pihole.md](https://github.com/philfreddie/pihole)
 
 ### ☁️ Oracle Cloud Hosting  
 Guide on hosting Pterodactyl and other services on Oracle Cloud Free Tier.  
-➡️ See: [https://github.com/philfreddie/oracle](oracle.md)
+➡️ See: [oracle.md](https://github.com/philfreddie/oracle)
 
 ### 🎮 Minecraft + TCPShield  
 How I routed a Minecraft network through TCPShield with full DDoS protection.  
-➡️ See: [https://github.com/philfreddie/tcpshield](tcpshield.md)
+➡️ See: [tcpshield.md](https://github.com/philfreddie/tcpshield)
 
 ## 📂 All Repositories
 
 To keep things clean, all secondary or support repositories are listed in:  
-👉 [All Projects Repo](https://github.com/yourusername/all-projects)
+👉 [projects.md](https://github.com/philfreddie/projects)
 
 ---
 
