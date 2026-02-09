@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-I'm a 15-year-old aspiring cybersecurity and networking professional with a passion for tech, infrastructure, and cloud services.  
+I'm a 16-year-old aspiring cybersecurity and networking professional with a passion for tech, infrastructure, and cloud services.  
 I enjoy working on projects involving:
 - Networking setups (including VPNs and DNS)
 - Cybersecurity tools and hardening
